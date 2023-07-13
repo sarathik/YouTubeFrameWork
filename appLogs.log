@@ -28,3 +28,6 @@
 2023-07-13 16:36:53 DEBUG LogCapture:13 - This is logger message
 2023-07-13 16:36:53 INFO  LogCapture:14 - This is logger message
 2023-07-13 16:36:53 ERROR LogCapture:15 - This is logger message
+2023-07-13 16:41:26 DEBUG LogCapture:13 - This is logger message
+2023-07-13 16:41:26 INFO  LogCapture:14 - This is logger message
+2023-07-13 16:41:26 ERROR LogCapture:15 - This is logger message
